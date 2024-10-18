@@ -81,4 +81,4 @@ JeelkumarPortfolio/
 
 ## Deployment
 
-live Link [Jeelkumar Portfolio](https://www.heroku.com/) 
+live Link [Jeelkumar Portfolio](https://github.com/jeelgeorgian/JeelkumarPortfolio) 

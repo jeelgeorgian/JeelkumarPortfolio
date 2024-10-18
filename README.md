@@ -43,7 +43,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JeelkumarPortfolio.git
+   git clone https://github.com/jeelgeorgian/JeelkumarPortfolio.git
    ```
 2. **Navigate to the project directory**:
    ```bash
